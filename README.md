@@ -19,7 +19,7 @@ The program will calculate the intermediate days between dates 1 and 2; and will
 
 ## Case study
 The information provided allows the reproduction of an interpolation example between two Sentinel 2 aerial images of Mar Menor lagoon from 14 and 19 of June of 2022.
-<img src="/case_mar_menor.jpeg" align="right" width="200" />
+<img src="/case_mar_menor.jpeg" width="600" />
 ## Authors
 - [@Pablo Blanco-Gómez](https://orcid.org/0000-0001-9465-2912)
 - [@Jose Luis Jimenez Garcia](https://orcid.org/0000-0001-6619-9057)
