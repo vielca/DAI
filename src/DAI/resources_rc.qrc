@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/DAI" >
+        <file>icon.png</file>
+		<file>icons.png</file>
+        <file>vielca.png</file>
+    </qresource>
+</RCC>
