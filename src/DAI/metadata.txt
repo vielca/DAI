@@ -5,27 +5,27 @@
 [general]
 name=DAI
 qgisMinimumVersion=3.0
-description=DAI
+description=DAI (Daily Aerial Image)
 version=0.1
-author=pep
-email=pep.j@vielca.com
+author=Vielca Ingenieros
+email=pep.j@vielca.com; pablo.b@vielca.com
 
-about=DAI
+about=Satellite imagery and remote sensing data provide the physical characteristics of the Earth surface from the measures of the radiation reflectance of special cameras. Such a property allows the use of these information for environmental monitoring. However, one of the weaknesses of this appraisal is the spatial and temporal granularity of the information. While some satellite raster products have almost daily information but poor spatial resolution – e.g. Sentinel 3 provides Chl and TSM information at 300 m spatial resolution, or VIIRS and MODIS provides Chl at 750 m and 1000 m resolution, respectively –; aerial image is provided by Sentinel 2 at 10-60 m resolution, but with a temporal granularity of 5 days. Daily Aerial Image (DAI) interpolation method adapts the spatial Inverse Distance Weighting (IDW) method to temporal series for spatial interpolation of the RGB bands of two aerial images in order to obtain interpolated daily images between two dates.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/vielca/DAI/issues
+repository=https://github.com/vielca/DAI
 # End of mandatory metadata
 
 # Recommended items:
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-# changelog=
+# changelog=v1.0.1 First official release version
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python, imagery, interpolation
 
-homepage=http://homepage
+homepage=https://github.com/vielca/DAI
 category=Plugins
 icon=icon.png
 # experimental flag
@@ -40,7 +40,7 @@ deprecated=False
 # plugin_dependencies=
 
 Category of the plugin: Raster, Vector, Database or Web
-# category=
+# category=Raster
 
 # If the plugin can run on QGIS Server.
 server=False
