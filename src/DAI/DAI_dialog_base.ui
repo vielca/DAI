@@ -254,7 +254,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Please cite the reference article: Blanco-Gómez, P., Jiménez-García, J.L. 2023. </string>
+    <string>Please cite the reference article: Blanco-Gómez, P., Jiménez-García, J.L., Amurrio-García, C. 2023 </string>
    </property>
   </widget>
   <widget class="QLabel" name="label_10">
@@ -267,7 +267,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>DAI Algorithm: a QGIS plugin for Daily Aerial Image interpolation. Journal of Open Source Software.</string>
+    <string>DAI Algorithm: a QGIS plugin for Daily Aerial Image interpolation. Journal of Open Research Software.</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_11">
@@ -280,7 +280,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>https://doi.org/10.xxxxxx/draft.</string>
+    <string>https://doi.org/10.xxxxxx.</string>
    </property>
   </widget>
  </widget>
