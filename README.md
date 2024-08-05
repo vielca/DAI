@@ -17,7 +17,7 @@ DAI interpolation method needs the following input information:
 •	Working folder: Defines de destination route.
 The program will calculate the intermediate days between dates 1 and 2; and will interpolate the original images according to the temporal distance to them of every single date. 
 ## Case study
-The information provided allows the reproduction of an interpolation example between two Sentinel 2 aerial images of Mar Menor lagoon from 14 and 19 of June of 2022.
+The information provided allows the reproduction of an interpolation example between two Sentinel 2 aerial images of Mar Menor lagoon from 12 and 20 of March of 2021.
 
 
 ## Authors
