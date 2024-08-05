@@ -6,7 +6,7 @@
 name=DAI
 qgisMinimumVersion=3.0
 description=DAI (Daily Aerial Image)
-version=0.1
+version=0.3
 author=Vielca Ingenieros
 email=pep.j@vielca.com; pablo.b@vielca.com
 
@@ -20,7 +20,7 @@ repository=https://github.com/vielca/DAI
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-# changelog=v1.0.1 First official release version
+# changelog=v1.0.3 updated version with paper reference
 
 # Tags are comma separated with spaces allowed
 tags=python, imagery, interpolation
@@ -44,4 +44,3 @@ Category of the plugin: Raster, Vector, Database or Web
 
 # If the plugin can run on QGIS Server.
 server=False
-
