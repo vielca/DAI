@@ -267,7 +267,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>DAI Algorithm: a QGIS plugin for Daily Aerial Image interpolation. Software Impacts Vol. (2024) XXXXXX.</string>
+    <string>DAI Algorithm: a QGIS plugin for Daily Aerial Image interpolation. Advances in Space Research Vol. 74(11).</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_11">
@@ -280,7 +280,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>https://doi.org/10.1016/j.simpa.2024.XXXXXX.</string>
+    <string>https://doi.org/10.1016/j.asr.2024.11.081.</string>
    </property>
   </widget>
  </widget>
