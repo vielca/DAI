@@ -33,6 +33,8 @@ The information provided allows the reproduction of an interpolation example bet
 - [@Pablo Blanco-Gómez](https://orcid.org/0000-0001-9465-2912)
 - [@Jose Luis Jimenez Garcia](https://orcid.org/0000-0001-6619-9057)
 - [@Constancio Amurrio-García](https://orcid.org/0009-0005-4681-0281)
+- [@Tobías Romero Macías](https://orcid.org/0009-0001-0058-8727)[
+  ](https://orcid.org/0009-0005-4681-0281)
 
 ## Position Paper
 
